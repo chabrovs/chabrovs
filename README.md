@@ -1,5 +1,5 @@
 ```
-$ echo "hi there" | asciify
+$ echo "hi there!" | asciify
 
  ██░ ██  ██▓   ▄▄▄█████▓ ██░ ██ ▓█████  ██▀███  ▓█████  ▐██▌ 
 ▓██░ ██▒▓██▒   ▓  ██▒ ▓▒▓██░ ██▒▓█   ▀ ▓██ ▒ ██▒▓█   ▀  ▐██▌ 
@@ -11,7 +11,7 @@ $ echo "hi there" | asciify
  ░  ░░ ░ ▒ ░     ░       ░  ░░ ░   ░     ░░   ░    ░       ░ 
  ░  ░  ░ ░               ░  ░  ░   ░  ░   ░        ░  ░ ░
 
-$ echo about.me
+$ cat about_me.txt
 working_on="inet-tunnel.online"                                                             
 ```
 
