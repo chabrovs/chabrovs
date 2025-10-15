@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```
 $ echo "hi there" | asciify
 
