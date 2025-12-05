@@ -12,7 +12,7 @@ $ echo "hi there!" | asciify
  ░  ░  ░ ░               ░  ░  ░   ░  ░   ░        ░  ░ ░
 
 $ cat about_me.txt
-working_on="inet-tunnel.online"                                                             
+working_on="inet-vpn.online"                                                             
 ```
 
 <!--
